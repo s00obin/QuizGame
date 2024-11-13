@@ -1,4 +1,5 @@
 # QuizGame
+![image](https://github.com/user-attachments/assets/84145f8c-566a-4566-a66c-3f4f2a4e0488)
 
 1. 클라이언트에서 서버로 보내는 메시지 형식
 답변 메시지 (ANSWER)
