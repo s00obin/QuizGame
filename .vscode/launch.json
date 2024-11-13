@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch QuizServer",
+            "request": "launch",
+            "mainClass": "QuizServer"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuizClient",
+            "request": "launch",
+            "mainClass": "QuizClient"
+        }
+    ]
+}
